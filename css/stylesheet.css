@@ -1,0 +1,227 @@
+	* {
+	
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;	
+	
+	}
+	
+	blockquote {
+	font-size:18pt;
+	color: ff0000;
+		
+	}	
+
+
+	body{
+		background-color:black;
+	}
+	
+	#avengers {
+		display:block;
+		width:623px;
+		height:230px;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	.navbar {
+		overflow: hidden;
+		background-color: black;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+	.navbar a {
+		float: left;
+		font-size: 22px;
+		color: #ff0000;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	.dropdown {
+		float: left;
+		overflow: hidden;
+	}
+
+	.dropdown .dropbtn {
+		font-size: 22px;    
+		border: none;
+		outline: none;
+		color: ff0000;
+		padding: 14px 16px;
+		background-color: inherit;
+		font-family: inherit;
+		margin: 0;
+	}
+
+	.navbar a:hover, .dropdown:hover .dropbtn {
+		background-color: d3d3d3;
+	}
+
+	.dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: black;
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+	}
+
+	.dropdown-content a {
+		float: none;
+		color: ff0000;
+		padding: 12px 16px;
+		text-decoration: none;
+		display: block;
+		text-align: left;
+	}
+
+	.dropdown-content a:hover {
+		background-color: d3d3d3;
+	}
+
+	.dropdown:hover .dropdown-content {
+		display: block;
+	}
+
+	#firstavengers {
+		width:auto;
+		height:450px;
+		float:right;
+	}
+
+	#thirdavengers {
+		width:auto;
+		height:450px;
+		float:right;
+		margin-right:10px;
+	}
+
+	h3 {
+		color: ff0000;
+		font-size: 22px;
+	}
+	
+	h2 {
+		color: ff0000;
+		font-size: 20px;
+		
+	}
+	
+	.home {
+		color: ff0000;
+		font-size: 16px;
+	}
+	
+	#cast {
+		display:block;
+		width:auto;
+		height:auto;
+		margin-left:auto;
+		margin-right:auto;
+	
+	}
+	
+	.heros {
+		list-style-type:none;
+		color: ff0000;
+		margin-left: 20px;
+		margin-top:50px;
+		font-size:20px;
+	}
+	
+	#blackwidow {
+			margin-left:20px;
+			display:block;
+					
+	}
+	
+	#captainamerica {
+			display:block;
+			margin-left: 20px;
+		
+	}
+	
+	#ironman {
+		display:block;
+		margin-left:20px;
+		height:300px;
+		width:autopx;
+	}
+	
+	
+	.column {
+		display:block;
+		width: 50%;
+		float: left;
+		height: 400px;
+	}
+	
+	#thor {
+		display:block;
+		margin-left:20px;
+		}
+		
+	#hulk {
+		display:block;
+		margin-left:20px;
+		height:300px;
+		width:auto;
+	}
+	#hawkeye {
+		display:block;
+		margin-left:20px;
+		height:300px;
+		width;auto;
+	}
+	
+	#nickfury {
+		display:block;
+		margin-left:20px;	
+		height:300px;
+		width:auto;
+	}
+	#scenes {
+		display:block;
+		width:auto;
+		height:auto;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	.related {
+		
+		width: 50%;
+		float: left;
+		height: 300px;
+		}
+		
+		p {
+		color: ff0000;
+		}
+		
+	#movies {
+		display:block;
+		width:auto;
+		height:auto;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	#stanlee {
+		display:block;
+		width:auto;
+		height:auto;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	.stan {
+	display:block;
+	height:315px;
+	width:auto;
+		
+		
+	}
